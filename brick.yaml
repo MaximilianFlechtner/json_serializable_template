@@ -11,6 +11,7 @@ version: 0.1.0+1
 environment:
   mason: ">=0.1.0-dev <0.1.0"
 
+repository: https://github.com/MaximilianFlechtner/json_serializable_template
 
 vars:
   name:
